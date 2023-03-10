@@ -2,8 +2,8 @@
 
 Standard CRUD operation system built with:
 
-- Java
-- MySQL
+- <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java
+- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySQL
 
 ![Employee Management System gif](https://user-images.githubusercontent.com/115106367/224393829-6a40d03f-429a-4e75-a3c0-1ed0c1ec7fc4.gif)
 
@@ -35,7 +35,7 @@ I suggest to run program using your IDE. Simply click "run java" button in prefe
 
 - Case 1
 
-![Usage Case 1](https://user-images.githubusercontent.com/115106367/224394289-78ea7a91-2d2e-4e34-9d6b-f216251ccff7.jpg
+![Usage Case 1](https://user-images.githubusercontent.com/115106367/224394289-78ea7a91-2d2e-4e34-9d6b-f216251ccff7.jpg)
 - Case 2
 
 ![Usage Case 2](https://user-images.githubusercontent.com/115106367/224394309-f794789e-f91e-4e70-aeae-6617d6f37f8e.jpg)
