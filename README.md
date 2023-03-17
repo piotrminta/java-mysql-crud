@@ -5,10 +5,12 @@ Standard CRUD(create, read, update, and delete) data operations system built wit
 - <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySQL
 
-Input data is synchronized with database!
-
 ![Employee Management System gif](https://user-images.githubusercontent.com/115106367/224393829-6a40d03f-429a-4e75-a3c0-1ed0c1ec7fc4.gif)
 
+Input data is synchronized with database!
+
+![MySQL - Synchronization](https://user-images.githubusercontent.com/115106367/225976156-ce3c0ac5-5805-4015-9645-0ab851ff8de6.jpg)
+  
 ## Installation
 
 Programs required:
